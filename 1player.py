@@ -1,3 +1,4 @@
+#Its one player with medium difficulty level
 import os 
 import sys
 import random
